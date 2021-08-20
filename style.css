@@ -1,0 +1,11 @@
+* {
+    list-style: none;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    margin: 2rem;
+    font-size: 3rem;
+}
+
